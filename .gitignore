@@ -1,0 +1,8 @@
+# ignore list #
+##################
+accounts_db.py
+aws_audit/local_helpers/config/accounts_db.py
+aws_audit/local_helpers/config/accounts_db.pyc
+aws_audit/local_helpers/*.pyc
+aws_audit/cwl_cloudwatch*.py
+aws_audit/cwl_cloudwatch*.pyc
